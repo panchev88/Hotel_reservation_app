@@ -77,3 +77,4 @@ function searchFormData(e) {
         changeContent('search-result-form-content');
     }
 }
+}
